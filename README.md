@@ -11,4 +11,5 @@ Currently, two official plugins are available:
 
 Install `package-lock.json` using `npm install` or `yarn install` 
 
+Add API key in `.env example` file - remove example
 
